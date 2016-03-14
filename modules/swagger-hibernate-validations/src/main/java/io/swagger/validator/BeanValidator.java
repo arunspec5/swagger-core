@@ -18,7 +18,7 @@ import java.util.Collection;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
-
+// Testing commit in Git maven
 public class BeanValidator extends AbstractModelConverter implements ModelConverter {
     public BeanValidator() {
         super(Json.mapper());
